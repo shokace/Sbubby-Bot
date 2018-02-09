@@ -1,0 +1,5 @@
+username = "ENTER REDDIT USERNAME HERE"
+password = "REDDIT PASSWORD HERE"
+client_id = "REDDIT API CLIENT ID HERE"
+client_secret = "CLIENT API SECRET HERE"
+
