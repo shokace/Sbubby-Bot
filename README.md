@@ -1,6 +1,6 @@
 # Sbubby Bot
 
-This bot takes the top 100 memes from /r/sbubby and allows users to call "!sbubby" in chat.
+This bot takes the top 100 memes from /r/sbubby and allows users to call "!sbubby" in chat, fetching one of the images and posting it on your discord chat channel.
 
 ## How to install
 
